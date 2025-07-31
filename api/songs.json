@@ -1318,5 +1318,535 @@
     "file": "https://stream.chillhop.com/mp3/75788",
     "filepath": "assets/song/12251/audio.mp3",
     "artists": "Ruck P, ØDYSSEE"
+  },
+  {
+    "id": 57831,
+    "title": "abigail's song",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/attempts.webp",
+    "coverPath": "assets/song/57831/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Abigail's-Song.mp3",
+    "filepath": "assets/song/57831/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 88053,
+    "title": "a fear of memories",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/88053/cover.jpg",
+    "file": "https://assets.edenzen.co/music/A-Fear-Of-Memories.mp3",
+    "filepath": "assets/song/88053/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 17985,
+    "title": "afterlives",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/attempts.webp",
+    "coverPath": "assets/song/17985/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Afterlives.mp3",
+    "filepath": "assets/song/17985/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 1521,
+    "title": "Bekah",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/waterfall-eyes.webp",
+    "coverPath": "assets/song/1521/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Bekah.mp3",
+    "filepath": "assets/song/1521/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 43489,
+    "title": "Borrowed Time",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/scatterbrain.webp",
+    "coverPath": "assets/song/43489/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Borrowed-Time.mp3",
+    "filepath": "assets/song/43489/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 4408,
+    "title": "city lights",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/4408/cover.jpg",
+    "file": "https://assets.edenzen.co/music/City-Lights.mp3",
+    "filepath": "assets/song/4408/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 86911,
+    "title": "Cloud Drift",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image1.webp",
+    "coverPath": "assets/song/86911/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Cloud-Drift:DELOSound.mp3",
+    "filepath": "assets/song/86911/audio.mp3",
+    "artists": "DELOSound"
+  },
+  {
+    "id": 46922,
+    "title": "Cozy Place",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image3.webp",
+    "coverPath": "assets/song/46922/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Cozy-Place-Chill.mp3",
+    "filepath": "assets/song/46922/audio.mp3",
+    "artists": "Keys of Moon"
+  },
+  {
+    "id": 58611,
+    "title": "crowds give me anxiety",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/thief-tactics.webp",
+    "coverPath": "assets/song/58611/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Crowds-Give-Me-Anxiety.mp3",
+    "filepath": "assets/song/58611/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 65779,
+    "title": "Daydreams",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image1.webp",
+    "coverPath": "assets/song/65779/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Daydreams.mp3",
+    "filepath": "assets/song/65779/audio.mp3",
+    "artists": "Purrple Cat"
+  },
+  {
+    "id": 85843,
+    "title": "Elk",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/waterfall-eyes.webp",
+    "coverPath": "assets/song/85843/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Elk.mp3",
+    "filepath": "assets/song/85843/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 2559,
+    "title": "erode",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/2559/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Erode.mp3",
+    "filepath": "assets/song/2559/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 55035,
+    "title": "Esoteric",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/scatterbrain.webp",
+    "coverPath": "assets/song/55035/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Esoteric.mp3",
+    "filepath": "assets/song/55035/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 60377,
+    "title": "Fall",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/waterfall-eyes.webp",
+    "coverPath": "assets/song/60377/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Fall.mp3",
+    "filepath": "assets/song/60377/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 53856,
+    "title": "for you",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/53856/cover.jpg",
+    "file": "https://assets.edenzen.co/music/For-You.mp3",
+    "filepath": "assets/song/53856/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 16417,
+    "title": "four",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/attempts.webp",
+    "coverPath": "assets/song/16417/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Four.mp3",
+    "filepath": "assets/song/16417/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 24019,
+    "title": "Fragments",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/scatterbrain.webp",
+    "coverPath": "assets/song/24019/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Fragments.mp3",
+    "filepath": "assets/song/24019/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 40044,
+    "title": "from you",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/40044/cover.jpg",
+    "file": "https://assets.edenzen.co/music/From-You.mp3",
+    "filepath": "assets/song/40044/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 33593,
+    "title": "Golden Hour",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image10.webp",
+    "coverPath": "assets/song/33593/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Golden-Hour.mp3",
+    "filepath": "assets/song/33593/audio.mp3",
+    "artists": "Purrple Cat"
+  },
+  {
+    "id": 68395,
+    "title": "Good night",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image4.webp",
+    "coverPath": "assets/song/68395/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Good-night:FAASounds.mp3",
+    "filepath": "assets/song/68395/audio.mp3",
+    "artists": "FAASounds"
+  },
+  {
+    "id": 54175,
+    "title": "Hazy Midnight",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image1.webp",
+    "coverPath": "assets/song/54175/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Hazy-Midnight:Snoozybeats.mp3",
+    "filepath": "assets/song/54175/audio.mp3",
+    "artists": "Snoozybeats"
+  },
+  {
+    "id": 38267,
+    "title": "Heart Of The Ocean",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image7.webp",
+    "coverPath": "assets/song/38267/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Heart-Of-The-Ocean.mp3",
+    "filepath": "assets/song/38267/audio.mp3",
+    "artists": "Purrple Cat"
+  },
+  {
+    "id": 61857,
+    "title": "hi",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/61857/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Hi.mp3",
+    "filepath": "assets/song/61857/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 46122,
+    "title": "Hibiscus",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image1.webp",
+    "coverPath": "assets/song/46122/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Hibiscus.mp3",
+    "filepath": "assets/song/46122/audio.mp3",
+    "artists": "Purrple Cat"
+  },
+  {
+    "id": 5086,
+    "title": "homeless",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/5086/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Homeless.mp3",
+    "filepath": "assets/song/5086/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 16085,
+    "title": "ilysm",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/16085/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Ilysm.mp3",
+    "filepath": "assets/song/16085/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 56202,
+    "title": "it's all in my head",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/56202/cover.jpg",
+    "file": "https://assets.edenzen.co/music/It's-All-In-My-Head.mp3",
+    "filepath": "assets/song/56202/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 47003,
+    "title": "lougheed town centre",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/47003/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Lougheed-Town-Centre.mp3",
+    "filepath": "assets/song/47003/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 72942,
+    "title": "melodies of the river",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/72942/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Melodies-Of-The-River.mp3",
+    "filepath": "assets/song/72942/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 46405,
+    "title": "Mental Places",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/thief-tactics.webp",
+    "coverPath": "assets/song/46405/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Mental-Places.mp3",
+    "filepath": "assets/song/46405/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 13313,
+    "title": "Mess",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/thief-tactics.webp",
+    "coverPath": "assets/song/13313/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Mess.mp3",
+    "filepath": "assets/song/13313/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 65217,
+    "title": "Missing You",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image7.webp",
+    "coverPath": "assets/song/65217/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Missing-You.mp3",
+    "filepath": "assets/song/65217/audio.mp3",
+    "artists": "Purrple Cat"
+  },
+  {
+    "id": 2820,
+    "title": "monday morning",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/2820/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Monday-Morning.mp3",
+    "filepath": "assets/song/2820/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 81912,
+    "title": "new thrift store shoes",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/81912/cover.jpg",
+    "file": "https://assets.edenzen.co/music/New-Thrift-Store-Shoes.mp3",
+    "filepath": "assets/song/81912/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 23280,
+    "title": "nothing",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/23280/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Nothing.mp3",
+    "filepath": "assets/song/23280/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 51466,
+    "title": "one",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/attempts.webp",
+    "coverPath": "assets/song/51466/cover.jpg",
+    "file": "https://assets.edenzen.co/music/One.mp3",
+    "filepath": "assets/song/51466/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 5267,
+    "title": "Recall (ft. Coral Zero)",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/scatterbrain.webp",
+    "coverPath": "assets/song/5267/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Recall-(ft.-Coral-Zero).mp3",
+    "filepath": "assets/song/5267/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 20570,
+    "title": "Scatterbrain",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/scatterbrain.webp",
+    "coverPath": "assets/song/20570/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Scatterbrain.mp3",
+    "filepath": "assets/song/20570/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 53869,
+    "title": "Silent Wood",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image3.webp",
+    "coverPath": "assets/song/53869/cover.jpg",
+    "file": "https://assets.edenzen.co/music/silent-wood.mp3",
+    "filepath": "assets/song/53869/audio.mp3",
+    "artists": "Purrple Cat"
+  },
+  {
+    "id": 55512,
+    "title": "skeletons",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/melodies-of-the-river.webp",
+    "coverPath": "assets/song/55512/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Skeletons.mp3",
+    "filepath": "assets/song/55512/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 5796,
+    "title": "Sleepless",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image3.webp",
+    "coverPath": "assets/song/5796/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Sleepless.mp3",
+    "filepath": "assets/song/5796/audio.mp3",
+    "artists": "Purrple Cat"
+  },
+  {
+    "id": 74805,
+    "title": "Snuff Out",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/scatterbrain.webp",
+    "coverPath": "assets/song/74805/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Snuff-Out.mp3",
+    "filepath": "assets/song/74805/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 37479,
+    "title": "still here",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/attempts.webp",
+    "coverPath": "assets/song/37479/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Still-Here.mp3",
+    "filepath": "assets/song/37479/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 87107,
+    "title": "Still Motion",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/thief-tactics.webp",
+    "coverPath": "assets/song/87107/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Still-Motion.mp3",
+    "filepath": "assets/song/87107/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 49411,
+    "title": "Substance Abuse",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/waterfall-eyes.webp",
+    "coverPath": "assets/song/49411/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Substance-Abuse.mp3",
+    "filepath": "assets/song/49411/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 11032,
+    "title": "Sunshine Boulevard",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image2.webp",
+    "coverPath": "assets/song/11032/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Sunshine-Boulevard.mp3",
+    "filepath": "assets/song/11032/audio.mp3",
+    "artists": "Purrple Cat"
+  },
+  {
+    "id": 43212,
+    "title": "Temple of Time",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/scatterbrain.webp",
+    "coverPath": "assets/song/43212/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Temple-Of-Time.mp3",
+    "filepath": "assets/song/43212/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 20388,
+    "title": "The Night",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/waterfall-eyes.webp",
+    "coverPath": "assets/song/20388/cover.jpg",
+    "file": "https://assets.edenzen.co/music/The-Night.mp3",
+    "filepath": "assets/song/20388/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 78489,
+    "title": "three",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/attempts.webp",
+    "coverPath": "assets/song/78489/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Three.mp3",
+    "filepath": "assets/song/78489/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 58977,
+    "title": "two",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/attempts.webp",
+    "coverPath": "assets/song/58977/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Two.mp3",
+    "filepath": "assets/song/58977/audio.mp3",
+    "artists": "waterfall eyes"
+  },
+  {
+    "id": 21450,
+    "title": "Wanted",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image8.webp",
+    "coverPath": "assets/song/21450/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Wanted.mp3",
+    "filepath": "assets/song/21450/audio.mp3",
+    "artists": "Purrple Cat"
+  },
+  {
+    "id": 40817,
+    "title": "Wildflowers",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/image10.webp",
+    "coverPath": "assets/song/40817/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Wildflowers.mp3",
+    "filepath": "assets/song/40817/audio.mp3",
+    "artists": "Purrple Cat"
+  },
+  {
+    "id": 62140,
+    "title": "Yearly Wildfires",
+    "label": "edenzen",
+    "coverImage": "https://assets.edenzen.co/images/album-art/thief-tactics.webp",
+    "coverPath": "assets/song/62140/cover.jpg",
+    "file": "https://assets.edenzen.co/music/Yearly-Wildfires.mp3",
+    "filepath": "assets/song/62140/audio.mp3",
+    "artists": "waterfall eyes"
   }
 ]

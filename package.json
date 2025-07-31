@@ -19,10 +19,12 @@
     "scrapper": "node scrapper/index.js"
   },
   "dependencies": {
+    "axios": "^1.11.0",
     "express": "^5.1.0",
     "https-proxy-agent": "^7.0.6",
     "node-fetch": "^3.3.2",
     "pipeline": "^0.1.3",
-    "promisify": "^0.0.3"
+    "promisify": "^0.0.3",
+    "url": "^0.11.4"
   }
 }

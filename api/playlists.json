@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Chillhop Radio",
+    "id": 12355,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiQSB3aWRlIHZhcmlldHkgb2YgdGhlIGJlc3QgdHJhY2tzIGZyb20gb3VyIGxhYmVsIiwiaWNvbiI6eyJzdGF0aWMiOiJwaC1yYWRpbyJ9LCJzb2NpYWxzIjp7InNwb3RpZnkiOiJodHRwczpcL1wvb3Blbi5zcG90aWZ5LmNvbVwvcGxheWxpc3RcLzRGMk9CT2lQbm5Fd3ZjV2pkblhJdjYiLCJhcHBsZSI6Imh0dHBzOlwvXC9tdXNpYy5hcHBsZS5jb21cL3BsYXlsaXN0XC9jaGlsbGhvcC1yYWRpb1wvcGwuMGI4MzIxYzAwZjY4NDIxZjgwODFlNTkxM2RlNTExMTgifX0="
+  },
+  {
+    "name": "Headbop Beats",
+    "id": 12351,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiQmVhdHMgdG8gYm9wIHlvdXIgaGVhZCB0byIsImljb24iOnsic3RhdGljIjoicGgtYnVpbGRpbmdzIn0sInNvY2lhbHMiOnsic3BvdGlmeSI6Imh0dHBzOlwvXC9vcGVuLnNwb3RpZnkuY29tXC9wbGF5bGlzdFwvMFRrMENybUJPNHFzRXFocGdORmc0Sz9zaT1lOGI5ZjQ0NWExMzQ0MmU0IiwiYXBwbGUiOm51bGx9fQ=="
+  },
+  {
+    "name": "Late Night Vibes",
+    "id": 12352,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiQ2FsbWVyIHRyYWNrcyB0byBoZWxwIHlvdSByZWxheCBvciBzbGVlcCIsImljb24iOnsic3RhdGljIjoicGgtbW9vbi1zdGFycyJ9LCJzb2NpYWxzIjp7InNwb3RpZnkiOiJodHRwczpcL1wvb3Blbi5zcG90aWZ5LmNvbVwvcGxheWxpc3RcLzRKUVp3QTZJOHJvRkFyVXVHWjc2NHI/c2k9NTBhYjk1NWE0MDQzNGI0MyIsImFwcGxlIjpudWxsfX0="
+  },
+  {
+    "name": "Lofi Hip Hop Beats",
+    "id": 12354,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiQmVhdHMgdG8gU3R1ZHlcL1JlbGF4IHRvIiwiaWNvbiI6eyJzdGF0aWMiOiJwaC1oZWFkcGhvbmVzIn0sInNvY2lhbHMiOnsic3BvdGlmeSI6Imh0dHBzOlwvXC9vcGVuLnNwb3RpZnkuY29tXC9wbGF5bGlzdFwvNk9XU2l0Y1M2UzNXU25pTk9RQ3hKcj9zaT1iOTI1MTk3ZWM1MmU0MzQ4IiwiYXBwbGUiOm51bGx9fQ=="
+  },
+  {
+    "name": "Endless Sunday",
+    "id": 12349,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiQSBzZWxlY3Rpb24gb2Ygc21vb3RoIGphenp5IGJlYXRzIiwiaWNvbiI6eyJzdGF0aWMiOiJwaC1jb2ZmZWUifSwic29jaWFscyI6eyJzcG90aWZ5IjoiaHR0cHM6XC9cL29wZW4uc3BvdGlmeS5jb21cL3BsYXlsaXN0XC80MDZVQ0NzZUJCWXVDSzVJRmh2R2RIP3NpPTY5YzJmNDNkYjE4YTQ2OTAiLCJhcHBsZSI6bnVsbH19"
+  },
+  {
+    "name": "Melancholic Mood",
+    "id": 12356,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiTW9vZHkgYW5kIHNhZCBiZWF0cyIsImljb24iOnsic3RhdGljIjoicGgtY2xvdWQtcmFpbiJ9LCJzb2NpYWxzIjp7InNwb3RpZnkiOiJodHRwczpcL1wvb3Blbi5zcG90aWZ5LmNvbVwvcGxheWxpc3RcLzdxMDRjVXJCUUVUZVViVU9RUFQ3eTU/c2k9ZGI4NDFiMDA3ZWNkNDQ5YSIsImFwcGxlIjpudWxsfX0="
+  },
+  {
+    "name": "Sunshine Beats",
+    "id": 12357,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiVXBsaWZ0aW5nIGJlYXRzIHRvIGtlZXAgeW91IGFjdGl2ZSIsImljb24iOnsic3RhdGljIjoicGgtc3VuLWhvcml6b24ifSwic29jaWFscyI6eyJzcG90aWZ5IjoiaHR0cHM6XC9cL29wZW4uc3BvdGlmeS5jb21cL3BsYXlsaXN0XC82VTNVelh4QmRqSkxVbU5ET1p2cklqP3NpPTIxMDAzZWZmODg4MjRhNWUiLCJhcHBsZSI6bnVsbH19"
+  },
+  {
+    "name": "Chill Study Beats",
+    "id": 12363,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiVGhlIHBlcmZlY3QgcGxheWxpc3QgZm9yIHN0dWR5aW5nIiwiaWNvbiI6eyJzdGF0aWMiOiJwaC1ib29rLW9wZW4tdGV4dCJ9LCJzb2NpYWxzIjp7InNwb3RpZnkiOiJodHRwczpcL1wvb3Blbi5zcG90aWZ5LmNvbVwvcGxheWxpc3RcLzZiUURHYlFHQktUTmp1Y29qcmZ1TEk/c2k9ZTFlNDA0ZDgxNThlNDhjNyIsImFwcGxlIjpudWxsfX0="
+  },
+  {
+    "name": "CH Essentials Spring",
+    "id": 13230,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiQWxsIHNwcmluZyB0cmFja3MgaW4gb25lIHBsYWNlIiwiaWNvbiI6eyJzdGF0aWMiOiJwaC1mbG93ZXItdHVsaXAifSwic29jaWFscyI6eyJzcG90aWZ5IjoiaHR0cHM6XC9cL29wZW4uc3BvdGlmeS5jb21cL3BsYXlsaXN0XC81Qm5IMm5HR3Nsa3VjOHJtOFF6REcxIiwiYXBwbGUiOm51bGx9fQ=="
+  },
+  {
+    "name": "CH Essentials Summer",
+    "id": 13231,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiQWxsIHN1bW1lciB0cmFja3MgaW4gb25lIHBsYWNlIiwiaWNvbiI6eyJzdGF0aWMiOiJwaC1zdW5nbGFzc2VzIn0sInNvY2lhbHMiOnsic3BvdGlmeSI6Imh0dHBzOlwvXC9vcGVuLnNwb3RpZnkuY29tXC9wbGF5bGlzdFwvMVh2dzhWUjE5UFZjWTNsMTd3Z3lsMCIsImFwcGxlIjpudWxsfX0="
+  },
+  {
+    "name": "CH Essentials Winter",
+    "id": 13229,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiQWxsIHdpbnRlciB0cmFja3MgaW4gb25lIHBsYWNlIiwiaWNvbiI6eyJzdGF0aWMiOiJwaC1zbm93Zmxha2UifSwic29jaWFscyI6eyJzcG90aWZ5IjoiaHR0cHM6XC9cL29wZW4uc3BvdGlmeS5jb21cL3BsYXlsaXN0XC8yVjNMWjdQams2SE5obGlrRG40c2wyIiwiYXBwbGUiOm51bGx9fQ=="
+  },
+  {
+    "name": "CH Essentials Fall",
+    "id": 13232,
+    "meta": "eyJzaG9ydERlc2NyaXB0aW9uIjoiQWxsIGZhbGwgdHJhY2tzIGluIG9uZSBwbGFjZSIsImljb24iOnsic3RhdGljIjoicGgtbGVhZiJ9LCJzb2NpYWxzIjp7InNwb3RpZnkiOiJodHRwczpcL1wvb3Blbi5zcG90aWZ5LmNvbVwvcGxheWxpc3RcLzRsaXB6Z3R6OXB3cEdGQ2d5TU84c0siLCJhcHBsZSI6bnVsbH19"
+  }
+]

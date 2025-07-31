@@ -1,0 +1,28 @@
+{
+  "name": "lofi-data-store",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/999shotoo/lofi-data-store#readme",
+  "bugs": {
+    "url": "https://github.com/999shotoo/lofi-data-store/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/999shotoo/lofi-data-store.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrapper": "node scrapper/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2",
+    "pipeline": "^0.1.3",
+    "promisify": "^0.0.3"
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rain",
+    "name": "Rain",
+    "file": "https://chill1.b-cdn.net/audio/v4/desktop/Rain.mp3",
+    "filepath": "assets/atmospheres/rain/audio.mp3"
+  },
+  {
+    "id": "city",
+    "name": "City Noise",
+    "file": "https://chill1.b-cdn.net/audio/v4/desktop/City_Noise.mp3",
+    "filepath": "assets/atmospheres/city/audio.mp3"
+  },
+  {
+    "id": "stream",
+    "name": "Stream",
+    "file": "https://chill1.b-cdn.net/audio/v4/desktop/Stream.mp3",
+    "filepath": "assets/atmospheres/stream/audio.mp3"
+  },
+  {
+    "id": "cicadas",
+    "name": "Cicadas",
+    "file": "https://chill1.b-cdn.net/audio/v4/desktop/Cicadas_V2.mp3",
+    "filepath": "assets/atmospheres/cicadas/audio.mp3"
+  },
+  {
+    "id": "campfire",
+    "name": "Campfire",
+    "file": "https://chill1.b-cdn.net/audio/v4/desktop/Campfire.mp3",
+    "filepath": "assets/atmospheres/campfire/audio.mp3"
+  },
+  {
+    "id": "cosy_cafe",
+    "name": "Cosy Cafe",
+    "file": "https://chill1.b-cdn.net/audio/v4/desktop/Cosy_Cafe_1.mp3",
+    "filepath": "assets/atmospheres/cosy_cafe/audio.mp3"
+  },
+  {
+    "id": "keyboards",
+    "name": "Keyboard",
+    "file": "https://chill1.b-cdn.net/audio/v4/desktop/Keyboard.mp3",
+    "filepath": "assets/atmospheres/keyboards/audio.mp3"
+  },
+  {
+    "id": "vinyl_crack",
+    "name": "Vinyl Crackling",
+    "file": "https://chill1.b-cdn.net/audio/v4/desktop/Vinyl_Noise.mp3",
+    "filepath": "assets/atmospheres/vinyl_crack/audio.mp3"
+  },
+  {
+    "id": "page_turning",
+    "name": "Page Turning",
+    "file": "https://chill1.b-cdn.net/audio/v4/desktop/Page_Turning.mp3",
+    "filepath": "assets/atmospheres/page_turning/audio.mp3"
+  },
+  {
+    "id": "summer_birds",
+    "name": "Forest Birds",
+    "file": "https://chill1.b-cdn.net/audio/v4/desktop/last_birds3_final_final_1.mp3",
+    "filepath": "assets/atmospheres/summer_birds/audio.mp3"
+  }
+]
